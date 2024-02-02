@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @virtualshelly
-- 👀 I’m interested in ... many things.  Researching which kayak I should purchase; sit in or sit on?
-- 🌱 I’m currently learning python
-- 💞️ I’m brushing up on my front-end web developer skills
+- 👀 I’m interested in ... many things.  I recently decided to purchase a sit on kayak, so I can try paddleboarding.
+- 🌱 I’m currently mastering python.
+- 💞️ I’ve also been playing with Bootstrap templates to create a before and after page documenting changes to my house. 
 - 📫 How to reach me ... virtualshelly@gmail.com
-- I have over six years experience as a Manual Software Tester, eight years help desk/customer server experience and two years front-end web development experience.
+- I have ten years experience as a Software Quality Tester (3 of them automation), eight years help desk/customer service experience and two years front-end web development experience.
 
 <!---
 virtualshelly/virtualshelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
